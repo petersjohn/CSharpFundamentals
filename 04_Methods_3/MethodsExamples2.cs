@@ -21,9 +21,18 @@ namespace _04_Methods_3
             int sum = num1 + num2;
             return sum;
         }
+
+        private int MultiplyTwoNumbers(int x, int z)
+        {
+            int prod = x * z;
+            return prod;
+        }
+
+    }
+        [TestMethod]
         public void MethodTests()
         {
             AddTwoNumbers(7, 12);
         }
-    }
+    
 }

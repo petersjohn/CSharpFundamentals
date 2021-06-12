@@ -12,3 +12,4 @@ C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\04_Methods_3\obj
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\04_Methods_3\obj\Debug\04_Methods_3.csproj.CopyComplete
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\04_Methods_3\obj\Debug\04_Methods_3.dll
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\04_Methods_3\obj\Debug\04_Methods_3.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\04_Methods_3\obj\Debug\04_Methods_3.csproj.AssemblyReference.cache

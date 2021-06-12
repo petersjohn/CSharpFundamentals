@@ -1,0 +1,16 @@
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\06_RepositoryPattern_Tests.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\06_RepositoryPattern_Tests.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\obj\Debug\06_RepositoryPattern_Tests.csproj.AssemblyReference.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\obj\Debug\06_RepositoryPattern_Tests.csproj.CoreCompileInputs.cache
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\obj\Debug\06_RepositoryPattern_Tests.csproj.CopyComplete
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\obj\Debug\06_RepositoryPattern_Tests.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\obj\Debug\06_RepositoryPattern_Tests.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\06_RepositoryPatttern_Repository.dll
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\06_RepositoryPattern_Tests\bin\Debug\06_RepositoryPatttern_Repository.pdb

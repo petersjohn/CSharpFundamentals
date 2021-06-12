@@ -12,3 +12,4 @@ C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\02_Conditionals\
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\02_Conditionals\obj\Debug\02_Conditionals.csproj.CopyComplete
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\02_Conditionals\obj\Debug\02_Conditionals.dll
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\02_Conditionals\obj\Debug\02_Conditionals.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\02_Conditionals\obj\Debug\02_Conditionals.csproj.AssemblyReference.cache

@@ -12,3 +12,4 @@ C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\05_Classes\obj\D
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\05_Classes\obj\Debug\05_Classes.csproj.CopyComplete
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\05_Classes\obj\Debug\05_Classes.dll
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\05_Classes\obj\Debug\05_Classes.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\05_Classes\obj\Debug\05_Classes.csproj.AssemblyReference.cache

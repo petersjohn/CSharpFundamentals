@@ -12,3 +12,4 @@ C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Deb
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.csproj.CopyComplete
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.dll
 C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.pdb
+C:\Users\johnp\Documents\ElevenFiftyProjects\CSharpFundamentals\01_Types\obj\Debug\01_Types.csproj.AssemblyReference.cache
