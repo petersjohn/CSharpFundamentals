@@ -18,11 +18,20 @@ namespace _06_RepositoryPatttern_Repository
         Drama,
         Action
     }
+
+    /*public enum MaturityRating
+    {
+        G,
+        PG,
+        PG13,
+        R,
+        NC17
+    }*/
     public class StreamingContent
     {
         public string Title { get; set; }
         public string Description { get; set;}
-        public string MaturityRating { get; set; }
+        public string Rating { get; set; }
 
         public double StarRating { get; set; }
         public bool IsFamilyFriendly { get; set; }
@@ -33,7 +42,8 @@ namespace _06_RepositoryPatttern_Repository
         {
             Title= title;
             Description = description;
-            MaturityRating = maturityRating;
+            Rating = maturityRating;
+            StarRating = starRating;
             IsFamilyFriendly = isFamilyFriendly;
             TypeofGenre = genre;
 

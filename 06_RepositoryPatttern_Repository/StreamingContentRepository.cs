@@ -32,7 +32,7 @@ namespace _06_RepositoryPatttern_Repository
             {
                 oldContent.Title = newContent.Title;
                 oldContent.Description = newContent.Description;
-                oldContent.MaturityRating = newContent.MaturityRating;
+                oldContent.Rating = newContent.Rating;
                 oldContent.IsFamilyFriendly = newContent.IsFamilyFriendly;
                 oldContent.StarRating = newContent.StarRating;
                 oldContent.TypeofGenre = newContent.TypeofGenre;
@@ -72,7 +72,7 @@ namespace _06_RepositoryPatttern_Repository
         {
             foreach (StreamingContent content in _listofContent)
             {
-                if(content.Title == title)
+                if(content.Title.ToLower() == title.ToLower())
                 {
                     return content;
                 }
